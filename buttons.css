@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .button {
     background-color: #4CAF50; /* Green */
     border: none;
@@ -48,3 +49,55 @@ a.active,a:hover{
     background: #36393F;
     transition: .5s;
 }
+=======
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+}
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: monserrat;
+}
+nav{
+    height: 80px;
+    height: 100%;
+}
+label.logo{
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+nav ul{
+    float:right;
+    margin-right: 20px;
+}
+nav ul li
+{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+nav ul li a{
+    color: black;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+a.active,a:hover{
+    background: #36393F;
+    transition: .5s;
+}
+>>>>>>> 1f1a131ca855873aeb88d340e11df51e83b528ec
