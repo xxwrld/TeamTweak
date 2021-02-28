@@ -1,0 +1,10 @@
+.downloads {
+    margin: 1em 0;
+    background-color: #fff;
+    border-radius: 3px;
+    padding: 10px 15px 15px;
+    border: 1px solid #ddd;
+}
+div {
+    display: block;
+}
